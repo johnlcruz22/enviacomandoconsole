@@ -1,0 +1,13 @@
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Tipos.exe
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Tipos.deps.json
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Tipos.runtimeconfig.json
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Tipos.runtimeconfig.dev.json
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Tipos.dll
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Tipos.pdb
+C:\Users\AS\source\repos\Tipos\bin\Release\netcoreapp3.0\Npgsql.dll
+C:\Users\AS\source\repos\Tipos\obj\Release\netcoreapp3.0\Tipos.AssemblyInfoInputs.cache
+C:\Users\AS\source\repos\Tipos\obj\Release\netcoreapp3.0\Tipos.AssemblyInfo.cs
+C:\Users\AS\source\repos\Tipos\obj\Release\netcoreapp3.0\Tipos.csproj.CopyComplete
+C:\Users\AS\source\repos\Tipos\obj\Release\netcoreapp3.0\Tipos.dll
+C:\Users\AS\source\repos\Tipos\obj\Release\netcoreapp3.0\Tipos.pdb
+C:\Users\AS\source\repos\Tipos\obj\Release\netcoreapp3.0\Tipos.csprojAssemblyReference.cache
